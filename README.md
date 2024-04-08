@@ -1,5 +1,6 @@
 **Scenario
-**As a Data Analyst at Northwind Traders, an international gourmet food distributor. Management is looking to you for insights to make strategic decisions in several aspects of the business. The projects focus on:
+**
+As a Data Analyst at Northwind Traders, an international gourmet food distributor. Management is looking to you for insights to make strategic decisions in several aspects of the business. The projects focus on:
 
 Evaluating employee performance to boost productivity,
 Understanding product sales and category performance to optimize inventory and marketing strategies,
